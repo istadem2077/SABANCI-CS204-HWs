@@ -1,0 +1,3 @@
+/home/itagizade/CLionProjects/CS204HW1/cmake-build-debug/CMakeFiles/CS204HW1.dir
+/home/itagizade/CLionProjects/CS204HW1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/itagizade/CLionProjects/CS204HW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
