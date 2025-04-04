@@ -7,3 +7,6 @@
 [submodule "CS204HW3"]
 	path = CS204HW3
 	url = https://github.com/istadem2077/CS204HW3
+[submodule "CS204HW4"]
+	path = CS204HW4
+	url = https://github.com/istadem2077/CS204HW4
